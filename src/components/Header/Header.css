@@ -1,0 +1,23 @@
+.nav {
+    height: 80px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    background-color: #242424;
+}
+
+.nav-items {
+    padding-right: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.nav-items a {
+    padding-right: 20px;
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.nav-items a:hover {
+    color: orange;
+}
