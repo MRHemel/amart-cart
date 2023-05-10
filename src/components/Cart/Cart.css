@@ -12,3 +12,10 @@
 .cart p {
     font-size: 17px;
 }
+
+.btn-cart-clear {
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(249, 112, 112);
+}
